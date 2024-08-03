@@ -1,4 +1,4 @@
-# NextPizza
+# Next Pizza
 Online pizza delivery store
 
 The project was completed as part of the course [Archakov Blog](https://www.youtube.com/watch?v=GUwizGbY4cc&t=129s)
