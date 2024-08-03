@@ -31,6 +31,7 @@ The project was completed as part of the course [Archakov Blog](https://www.yout
 13. Resend
 
 The component library was used by [shadcn](https://ui.shadcn.com/)
+Icons from [Lucide](https://lucide.dev/)
 
 ## Getting Started
 
