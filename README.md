@@ -1,6 +1,8 @@
 # NextPizza
 Online pizza delivery store
 
+The project was completed as part of the course [Archakov Blog](https://www.youtube.com/watch?v=GUwizGbY4cc&t=129s)
+
 ## The following features were implemented in this project:
 1. Full product filtering with server rendering and storing parameters in URI;
 2. Displaying products, adding products to the cart;
@@ -28,4 +30,4 @@ Online pizza delivery store
 12. lucide-react 
 13. Resend
 
-The project was completed according to the course [Archakov Blog](https://www.youtube.com/watch?v=GUwizGbY4cc&t=129s)
+
