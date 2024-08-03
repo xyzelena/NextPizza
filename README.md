@@ -30,6 +30,8 @@ The project was completed as part of the course [Archakov Blog](https://www.yout
 12. lucide-react 
 13. Resend
 
+The component library was used by [shadcn](https://ui.shadcn.com/)
+
 ## Getting Started
 
 First, run the development server:
